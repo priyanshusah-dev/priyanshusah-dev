@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Priyanshu 👋
 
-<!--
-**priyanshusah-dev/priyanshusah-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year B.Tech student in Computer Science and Engineering (Big Data Analytics) at NSUT, Delhi.
 
-Here are some ideas to get you started:
+I'm currently learning Python and building my programming and problem-solving skills. I'm also interested in Data Science, AI/ML, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- 🌱 Learning Python and programming fundamentals
+- 💻 Building small projects to improve my skills
+- 📊 Exploring Data Science and AI/ML
+- 🎓 B.Tech CSE (Big Data Analytics) @ NSUT
+
+### Skills
+- Python
+- Programming
+- Problem Solving
+- Microsoft Excel
+
+### Also interested in
+Creative Writing • Graphic Design • Video Editing • Sketching
